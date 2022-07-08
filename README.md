@@ -3,7 +3,7 @@
 
 ## About me
 ```javascript
-const thai = {
+const Frank = {
   code: [Javascript, HTML, CSS, Python, SQL],
   tools: [React, Node, Docker],
 }
