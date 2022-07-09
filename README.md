@@ -10,7 +10,7 @@ const Frank = {
 ```
 ## You can find me:
 - [![Twitter: FrankGiraldo](https://img.shields.io/twitter/follow/Frankgiraldoa?style=social)](https://twitter.com/Frankgiraldoa)
-- [![Linkedin: FrankGiraldo](https://img.shields.io/badge/-frankgiraldoarango-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frank-giraldo-arango-090b69224/)](https://www.linkedin.com/in/frank-giraldo-arango-090b69224/)
+- [![Linkedin: FrankGiraldo](https://img.shields.io/badge/-frankgiraldoarango-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frankgiraldo/)](https://www.linkedin.com/in/frankgiraldo/)
 
 <!--
 **fyga10/fyga10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
