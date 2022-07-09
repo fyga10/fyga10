@@ -4,7 +4,7 @@
 ## About me
 ```javascript
 const Frank = {
-  code: [Javascript, HTML, CSS, Python, SQL],
+  code: [Javascript, HTML, CSS, Python, C, SQL],
   tools: [React, Node, Docker],
 }
 ```
